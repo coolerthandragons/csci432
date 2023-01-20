@@ -4998,14 +4998,14 @@ function normalizeContainer(container) {
   }
   return container;
 }
-const _imports_0 = "/app2/assets/harry_potter_family-fcf5cfa5.jpg";
-const _imports_1 = "/app2/assets/cosplaying-530187ab.jpg";
-const _imports_2 = "/app2/assets/secret_santa-f94efe4f.jpg";
-const _imports_3 = "/app2/assets/traveling-4271b253.png";
-const _imports_4 = "/app2/assets/london-a35d6f44.jpg";
-const _imports_5 = "/app2/assets/france-0367988a.jpg";
-const _imports_6 = "/app2/assets/new_york-5530e84f.jpg";
-const _imports_7 = "/app2/assets/north_carolina-555ecbe2.jpg";
+const _imports_0 = "/app3/assets/harry_potter_family-fcf5cfa5.jpg";
+const _imports_1 = "/app3/assets/cosplaying-530187ab.jpg";
+const _imports_2 = "/app3/assets/secret_santa-f94efe4f.jpg";
+const _imports_3 = "/app3/assets/traveling-4271b253.png";
+const _imports_4 = "/app3/assets/london-a35d6f44.jpg";
+const _imports_5 = "/app3/assets/france-0367988a.jpg";
+const _imports_6 = "/app3/assets/new_york-5530e84f.jpg";
+const _imports_7 = "/app3/assets/north_carolina-555ecbe2.jpg";
 const Life_vue_vue_type_style_index_0_lang = "";
 const _export_sfc = (sfc, props) => {
   const target = sfc.__vccOpts || sfc;
