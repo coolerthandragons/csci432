@@ -1,0 +1,22 @@
+
+#component1 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#title{
+    font-size: 4vh;
+}
+img {
+    display: inline-block;
+    width: 50%;
+}
+
+
+.sans-serif {
+    font-family: 'Times New Roman', Times, serif
+}
+.monospace {
+    font-family: 'Courier New', Courier, monospace
+}
+
