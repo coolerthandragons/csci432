@@ -1,0 +1,19 @@
+
+fieldset {
+       border-style: none;
+}
+div {
+       font-family: 'Courier New', Courier, monospace;
+}
+input {
+       font-family: 'Courier New', Courier, monospace;
+}
+button {
+       font-family: 'Courier New', Courier, monospace;
+}
+#image {
+       width: 3%;
+}
+label {
+       font-family:'Courier New', Courier, monospace
+}
