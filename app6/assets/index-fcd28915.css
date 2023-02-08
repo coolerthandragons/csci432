@@ -1,0 +1,96 @@
+
+fieldset {
+  background-color: white;
+  border-radius: 5%;
+}
+header {
+  background-color: rgb(69, 186, 69);
+  color: white;
+}
+body {
+  background-color: white;
+  color: black;
+  display: grid;
+  grid-template-columns: 25% 15% 15% 15% 15%;
+  grid-template-rows: 5% 5% 20% 5% 5% 5% 5% 5% 5% 5% 5% 5% 5%;
+  column-gap: 2%;
+  row-gap: 2%;
+}
+input {
+  grid-column-start: 2;
+  grid-column-end: 5;
+}
+label {
+  grid-column: 1;
+}
+#submit {
+  grid-column: 5;
+  grid-row: 12;
+  background-color: rgb(69, 186, 69);
+}
+#submit:active{
+  background-color: lightgreen;
+}
+#deliveryDate {
+  grid-column-start: 2;
+  grid-column-end: 5;
+  grid-row: 6
+}
+#address {
+  grid-column: 1;
+  grid-row: 7;
+  background-color: gray;
+  grid-column-start: 1;
+  grid-column-end: 7;
+  grid-row-start: 7;
+  grid-row-end: 11;
+}
+#street {
+  grid-column-start: 2;
+  grid-column-end: 6;
+  grid-row: 7;
+}
+#secondStreet {
+  grid-column-start: 2;
+  grid-column-end: 6;
+  grid-row: 8;
+}
+#city {
+  grid-column-start: 2;
+  grid-column-end: 5;
+  grid-row: 9;
+}
+#zip {
+  grid-column-start: 2;
+  grid-column-end: 5;
+  grid-row: 10;
+}
+#firstName {
+  grid-column-start: 2;
+  grid-column-end: 4;
+  grid-row: 1;
+}
+#lastName {
+  grid-column-start: 4;
+  grid-column-end: 6;
+  grid-row: 1;
+}
+#blue {
+  grid-column: 2;
+  grid-row: 3;
+}
+#yellow {
+  grid-column: 3;
+  grid-row: 3;
+}
+#green {
+  grid-column: 4;
+  grid-row: 3;
+}
+img {
+  height: 80%;
+}
+#size {
+  grid-column-start: 2;
+  grid-column-end: 5;
+}
