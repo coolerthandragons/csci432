@@ -1,0 +1,17 @@
+
+audio {
+    display: block;
+    padding: 0 20px 20px 20px;
+}
+
+main[data-v-efe2da8d] {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+  margin: 50px 100px;
+}
+section[data-v-efe2da8d] {
+  display: flex;
+  justify-content: center;
+}
