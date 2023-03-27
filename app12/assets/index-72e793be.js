@@ -5200,7 +5200,7 @@ function normalizeContainer(container) {
   }
   return container;
 }
-const _imports_0 = "/app12/assets/shockedcat-51a7745d.jpg";
+const _imports_0 = "/app12/shockedcat.jpg";
 /*!
   * vue-router v4.1.6
   * (c) 2022 Eduardo San Martin Morote
@@ -7183,22 +7183,22 @@ const json = [
   {
     name: "lace",
     description: "This is a picture of a fancy handmade lace.",
-    src: "../../public/lace.jpg"
+    src: "/lace.jpg"
   },
   {
     name: "mirror",
     description: "This is a pictue of a cat looking into a mirror.",
-    src: "../../public/mirror.jpg"
+    src: "/mirror.jpg"
   },
   {
     name: "paper",
     description: "This is a picture of some toilet paper barely holding on...",
-    src: "../../public/paper.jpg"
+    src: "/paper.jpg"
   },
   {
     name: "plate",
     description: "This is a picture of a sad plate.",
-    src: "../../public/plate.jpg"
+    src: "/plate.jpg"
   }
 ];
 const ItemPicture_vue_vue_type_style_index_0_lang = "";
@@ -7354,7 +7354,7 @@ const router = createRouter({
   history: createWebHistory("/app12/"),
   routes: [
     {
-      path: "/",
+      path: "/index.html",
       name: "home",
       component: _sfc_main$b
     },
