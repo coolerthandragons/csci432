@@ -7005,7 +7005,7 @@ const _hoisted_3$1 = { class: "dropdown-content" };
 function _sfc_render$3(_ctx, _cache, $props, $setup, $data, $options) {
   const _component_RouterLink = resolveComponent("RouterLink");
   return openBlock(), createElementBlock("nav", null, [
-    createVNode(_component_RouterLink, { to: "/" }, {
+    createVNode(_component_RouterLink, { to: "/index.html" }, {
       default: withCtx(() => [
         createTextVNode("Home ")
       ]),
@@ -7183,22 +7183,22 @@ const json = [
   {
     name: "lace",
     description: "This is a picture of a fancy handmade lace.",
-    src: "/lace.jpg"
+    src: "../lace.jpg"
   },
   {
     name: "mirror",
     description: "This is a pictue of a cat looking into a mirror.",
-    src: "/mirror.jpg"
+    src: "../mirror.jpg"
   },
   {
     name: "paper",
     description: "This is a picture of some toilet paper barely holding on...",
-    src: "/paper.jpg"
+    src: "../paper.jpg"
   },
   {
     name: "plate",
     description: "This is a picture of a sad plate.",
-    src: "/plate.jpg"
+    src: "../plate.jpg"
   }
 ];
 const ItemPicture_vue_vue_type_style_index_0_lang = "";
